@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.tictactoe.core.TicTacToeGameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-27T14:24:10.415Z" hostname="codespaces-2b03c4" time="0.068">
+  <properties/>
+  <testcase name="detectsRowWinAndPreventsFurtherMoves()" classname="com.example.tictactoe.core.TicTacToeGameTest" time="0.034"/>
+  <testcase name="detectsDraw()" classname="com.example.tictactoe.core.TicTacToeGameTest" time="0.002"/>
+  <testcase name="rejectsOccupiedAndOutOfBoundsCells()" classname="com.example.tictactoe.core.TicTacToeGameTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
